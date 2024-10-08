@@ -4,6 +4,8 @@
 
 1. [Development of Human Support Robot as the research platform of a domestic mobile manipulator](https://robomechjournal.springeropen.com/articles/10.1186/s40648-019-0132-3)
 2. [RobotCup @Home - Rules](https://athome.robocup.org/rules/)
+3. [HSR Technical Overview](https://global.toyota/en/download/8725323)
+4. [HSR User Guide (PDF)](https://www.toyota-global.com/innovation/partner_robot/robot/file/HSR_EN.pdf)
 
 ## Recommended Readings
 
